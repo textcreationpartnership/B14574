@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concilium tentum in Camera Guildhald ciuitatis London, decimo nono die Iunij, anno regni Dom. nostri Iacobi nune regis Angliæ ... whereas by a Common Councell holden the ninth day of Aprill, in the seuen and thirtieth yeare of the reigne of our late Soueraigne Ladie, Queene Elizabeth, an act was made, for the preuention of theft ... by establishing a registry to bee kept, of all the bargaines, contracts, sales, pawnes of plates jewels, goods ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14574</idno><idno type="EEBO-CITATION">22134605</idno>
+  <idno type="VID">178496</idno>
+  <idno type="EEBO-PROQUEST">2240906205</idno>
+  <idno type="STC">STC 16728.5</idno>
+  <idno type="STC">ESTC S1339</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1731:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concilium tentum in Camera Guildhald ciuitatis London, decimo nono die Iunij, anno regni Dom. nostri Iacobi nune regis Angliæ ... whereas by a Common Councell holden the ninth day of Aprill, in the seuen and thirtieth yeare of the reigne of our late Soueraigne Ladie, Queene Elizabeth, an act was made, for the preuention of theft ... by establishing a registry to bee kept, of all the bargaines, contracts, sales, pawnes of plates jewels, goods ...</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Iaggard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Second part of title from first seven lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Retail trade --  Law and legislation --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="text">
+            <pb facs="tcp:178496:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>Commune Conciliumtentum in Camera Guildhald Ciuitatis London, <date>decimo nono die Iunij, Anno Regni Dom. nostri Iacobi nunc Regis Angliae, &amp;c. vicesimo &amp; Scotiae quinquagesimo quinto.</date> Coram Ed<g ref="char:EOLhyphen"/>wardo Barkham Milite, Maiore Ciuit London, Heneagio Finch Armigero Recordatore eiusdem Ciuitat. Willielmo Cockaine Milite, Petro Proby, Martino Lumley, Willielmo Gore, Iohanne Gore, Roberto Iohnson, Richardo Hearne, Hugone Hamersley, Richardo Deane, Iacobo Cambell, Edwardo Allen &amp; Roberto Ducie Aldermannis, ac Georgio Whitmore, &amp; Nichol. Rainton Aldermannis, &amp; vicecom. eiusdem Ciuit. Nec non Maiore parte Com. eius. Ciuit. existent assemblat.</dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a Common Councell holden the ninth day of A<g ref="char:EOLhyphen"/>prill, in the seuen and thirtieth yeare of the reigne of our late Soueraigne Ladie <hi>Queene Elizabeth,</hi> an Act was made, for preuention of Theft, Burglaries, Robberies, and Fellonies within the City of London and the Liberties of the same, by establishing a Registry to bee kept, of all the Bargaines, Contracts, Sales, and Pawnes of Plate, Iewels, Goods, Wares, Marchandizes, Apparrell, Bookes, Beddings, Remnants, and Ends of Silke, Veluet, and of Linnen and Woollen Cloth, and other such like things sold or pawned by base shifting and suspected persons, to retailing Broakers, Broggers, or Hucksters, and other such persons as vse to buy or take to pawne olde Apparrell, housholdstuffe, bed<g ref="char:EOLhyphen"/>ding, bookes, ends and remnants of silke and veluets, or of linnen or woollen Cloth, or such like, to sell againe, inhabi<g ref="char:EOLhyphen"/>ting within the City of London and Liberties thereof: Which Act hath not taken such effect as was thereby purposed, and is to be wished it should haue done.</p>
+            <p>And, whereas by another Act of Common Councell holden the six and twentieth day of Ianuary, in the sixt yeare of the Kings Maiesties reigne of England that now is, It was for the reasons there<g ref="char:EOLhyphen"/>in mentioned, enacted by the Lord Maior, Aldermen, and Commons in the saide Common Councell assembled: That from thenceforth, all and euery such retailing Broker, Brogger, or Huckster, or o<g ref="char:EOLhyphen"/>ther person or persons that should from thenceforth vse to buy or take to pawn old Apparrel, houshold stuffe, bedding, bookes, ends, and remnants of Silkes, veluets, or of linnen or woollen cloth, or such like Wares or Commodities to sell againe, inhabiting within the said City of London or liberties of the same, should be bound by Obligation (with good Sureties) in the summe of one hundred pounds vnto the Register thereafter to be thereunto authorized by the Lord Maior and Aldermen of the said City of London, vnder the Seale of the said City, or to his sufficient Deputie or Deputies, to his Ma<g ref="char:EOLhyphen"/>iesties vse, and so yearly from yeare to yeare, before they should presume to deale or meddle in contra<g ref="char:EOLhyphen"/>cting, buying, or taking to pawne of any Plate, Iewels, Goods, Wares, Merchandizes, Apparrel, houshold stuffe, bookes, bedding, remnants and ends of silkes, veluets, or of linnen or woollen Cloth, or other such like Wares &amp; Commodities: That he, or they, shall and will keep and make a true entry in writing in two seuerall sheets of paper, or more if neede be, in the nature of a duplicate, of all and euery seuerall Contract, bargaine, or pawne to be made or taken by him or them, without omission of any one: And also of the nature, markes, and description of the Commodity, thing or things, bought sold, or impawned, and of the price or summe of monie giuen or lent for the same: and also of the name, mystery, or occupation and dwelling place of the person or persons that shal sell or impawne the same, together with diuers other paines, forfeitures, and ordinances, for the preuenting and suppressing of the inconueniences before declared. All which notwithstanding, it is found by experience, that diuers persons, Brokers, Broggers, or Hucksters, and such other persons as vse to buy or take to pawne old apparrell, houshold-stuffe, bedding, bookes, ends and remnants of silkes, veluets, or of linnen or woollen Cloth, or such like wares to sell againe, haue found diuers waies and meanes to auoid being bound to his Maiesties vse, as in the said Act is directed. And the rather, for that the meanes appoin<g ref="char:EOLhyphen"/>ted by the said Act, to enforce them to become bound, is a penaltie not to bee recouered without suite: which in regard of the proofes of their seuerall Contracts, and the multiplicity of suites will prooue so chargeable and difficult to be vndergone, as that it will hardly bring them to any conformitie: And
+<pb facs="tcp:178496:2"/>forasmuch as the inconueniences arising by meanes of the licentious trading of the saide Broakers, Broggers, &amp; Hucksters, are so dangerous, that it is conceiued verie necessarie and fit for the good of the Commonwealth and publike Weale of this Citie, to prouide fit meanes for preuenting of such a<g ref="char:EOLhyphen"/>buses and strict punishments for such Offenders, thereby to draw them to become conformable: and that there be one cleare and plaine Law made and established, touching the premisses, free from am<g ref="char:EOLhyphen"/>biguity or contradiction, and easie to be vnderstood and obserued. Be it therefore enacted by the Lord Maior, Aldermen, &amp; Commons in this Common Councell assembled, &amp; by the authority of the same, That the said former recited Acts, be from henceforth vtterly voide and repealed. And be it enacted by the authority aforesaid: That from the first day of August now next ensuing, all and euery retayling Broker, Brogger, or Huckster, or other person or persons inhabiting, or which shall inhabit within the Citie of London or liberties of the same, and which shall keepe any shop or roome for the buying or taking to pawne of any old apparrell, houshold stuffe, bedding, bookes, ends and renmants of silks, veluets, or of Linnen or Woollen Cloth, or such like Wares or Commodities to sell againe, or shall vse to buy or take to pawne old apparrell, houshold stuffe, bedding, bookes, and remnants of Silkes, Veluets, or of Linnen or Woollen Cloth, or such like wares and Commodities to sell againe, shall before they shall presume to keepe a Brokers shop, or shall deale or intermeddle in the contracting for buying or taking to pawne of any Plate, Iewels, goods, wares, marchandises, apparrell, houshold stuffe, bookes, bedding, remnants and ends of silks, veluets, or of Linnen or wollen Cloth, and other such like Wares and Commodities, become bound in one Obligation of the summe of one hundreth pounds, to be taken by the Register aforesaide, or his Deputie, in the name of the Chamberlaine of London for the time being, for the true making and keeping of a true and perfect entry in writing in two seuerall sheets of paper, or more if need be, in the nature of a duplicate, of all and euery seueral con<g ref="char:EOLhyphen"/>tract, bargaine, or pawne to be made or taken by him or them, without omission of any one: and also of the nature, markes, and description of the Commoditie, thing or things, bought, solde, or impaw<g ref="char:EOLhyphen"/>ned, and of the price or summe of money giuen or lent for the same: and also of the name, mysterie, or occupation and dwelling place of the person or persons that shall sell or impawne the same, or of the name, mysterie, occupation, and dwelling place, which such person or persons shall affirme him or hir selfe to be of, and this to be done iournally, as euery dayes bargaines, contracts, or pawnes, are inade and taken, vpon paine of forfeiture of the summe of ten pounds weekely, and for euery week that they shall presume to keep a Brokers shop, or to deale or meddle in contracting, for bargaining or taking to pawn, of any Plate, Iewels, goods, wares, marchandices, apparrel, Houshold stuffe, books▪ bedding, remnants and ends of silkes, veluets, or of Linnen or Woollen Cloth, &amp; other such like Wares and Commodities as aforesaid, before they are or shall be so bounden by Obligation, as before is decla<g ref="char:EOLhyphen"/>red: and it shall be lawfull for the said Register and Chamberlain for the time being, to haue and take for the making of euery such Bond, the summe of viii.d. and not aboue, whereof the Register or the Deputie to haue the one halfe for the making and writing, and the Chamberlaine the other halfe, for the keeping of the said bonds, And the saide Broker, Brogger, or Huckster, and such other person, that shal so vse to buy, or take to pawn, old apparrel, houshold stuffe, bedding, bookes, ends, and rem<g ref="char:EOLhyphen"/>nants of Silkes, veluets, or of linnen or woollen cloth, or such like to sell againe, shall bring or cause to be brought, the said Iournall entry exactly and truly made, with the said duplicate thereof once euerie weeke, vpon the day limited to them by the Register authorized, or to be authorized thereunto by the said Lord Maior and Aldermen, vnder the Seale of the said Citie, or to his sufficient Deputie or De<g ref="char:EOLhyphen"/>puties authorized and allowed by the said Lord Maior and Court of Aldermen, and so weekely from time to time, vnto the said Register or his sufficient Deputie or Deputies, with the full fees and du<g ref="char:EOLhyphen"/>ties payable, or to be paid by the true meaning of this Acte: That is to say, One farthing for euerie bargaine, contract, or pawne: for or vpon which, there is or shall bee giuen or lent the summe of one shilling or aboue, and vnder fiue shillings. And one halfe peny for euery bargaine, contract, or pawn, for or vpon which, there is or shall be giuen or lent v.s. or about, &amp; vnder xx.s. and one peny for euery bargaine, contract, or pawne, for or vpon which, there is or shall be giuen or lent xx.s. or aboue, and vnder xl.s. And two pence for euerie bargaine, contract, or pawne, for or vpon which there is, or shall be giuen or lent, xl.s. or aboue. To one part of which duplicate remaining with the said Register, or his sufficient Deputie or deputies as aforesaid, the said Broker, Brogger, or Huckster, or other per<g ref="char:EOLhyphen"/>son, that doth or shall vse to buy or take to pawn old Apparrel, houshold-stuffe, bedding, bookes, ends and remnants of silkes, veluets, or of linnen or woollen Cloth, or such like Wares and Commodities to sell againe, inhabiting within the said City of London or liberties thereof, as aforesaid, shall sub<g ref="char:EOLhyphen"/>scribe his or her hand. And to the other part of the saide duplicate, to be left with the saide Broker, Brogger, or Huckster, or other persons aforesaid, the Register or his sufficient Deputy or Deputies receiuing the same, shall likewise subscribe his hand.</p>
+            <pb facs="tcp:178496:3"/>
+            <p> And be it further enacted by the said Lord Maior, Aldermen &amp; Common councel, &amp; by the authority of the same: That all and euery the Bonds so to be entred into by the said Brokers, Broggers, or Huck<g ref="char:EOLhyphen"/>sters, or other persons, that do or shall vse to buy or take to pawne, old apparrel, houshold stuffe, bed<g ref="char:EOLhyphen"/>ding, bookes, ends and remnants of silkes, veluets, or of linnen or woollen cloth, or such like Wares or Commodities to sell againe, inhabiting within the said Citie or Liberties of the same, shalbe from time to time deliuered into the Chamber of the saide Cittie of London, vnto the hands of the Cham<g ref="char:EOLhyphen"/>berlaine of the said City for the time being, to the end, they may there remaine, and not to bee put in suite against any the persons so to be bound vpon any cause whatsoeuer, without the speciall license &amp; direction of the Lord Maior and Court of Aldermen of the said City, who are trusted by this Act, vp<g ref="char:EOLhyphen"/>on examination of the cause of the forfeiture, to put the same in suite, and to prosecute the same, and to take such benefits and aduantages thereof, and no more, as they in their consciences shal hold iust and reasonable, the circumstances of the cause considered: the benefit of all which suits or compositions for the same forfeytures, shall go wholly (charges and costs of suite deducted) to the vse and behoofe of the Register authorized or to be authorised as aforesaid.</p>
+            <p>And be it further enacted, That if any such person as aforesaide, that shall from the first day of Au<g ref="char:EOLhyphen"/>gust aforesaid, deale in such buying or taking to pawne, of any such Plate, Iewels, Goodes, Wares, Marchandizes, Apparrell, Houshold-stuffe, Bookes, Bedding, ends and remnants of Silkes, Vel<g ref="char:EOLhyphen"/>uets, or of Linnen or Woollen Cloth, and other such like Wares or Commodities, shall omit to re<g ref="char:EOLhyphen"/>gister or make entry of the same as aforesaide, That then and in euery such case, euery such person who shall sell or pawne such Iewels, Plate, goods, wares, marchandises, apparrel, houshold stuffe, books bedding, ends and remnants of silkes, veluets, or of linnen or woollen Cloth, and other Wares and Commodities, shall and may by vertue of this Act, haue full power to take and haue againe the same without paying any thing for the same, and such person or persons as aforesaid, to whom they shalbe sold or impawned as aforesaid, shall vppon request made, redeliuer the same, without receiuing anie money or other recompence for the same: And that such Plate, Iewels, goods, wares, marchandises, apparrell, houshold stuffe, bookes, bedding, ends and remnants of silkes, veluets, or of linnen or wool<g ref="char:EOLhyphen"/>len Cloth, and other Wares and Commodities so to be deliuered as aforesaid, and all other the forfei<g ref="char:EOLhyphen"/>tures and penalties giuen by this Act, shall be recouered by Action of debt or detinue, Bill, plaint, or information, in any of the Kings Maiesties Courts aforesaid, within the said City or within the Li<g ref="char:EOLhyphen"/>berties thereof, wherein <hi>noley gager</hi> shall be allowed to the Defendant. Prouided alwayes, that this Act, nor any thing therein contained, shall not be preiudiciall or hurtfull to anie Broakers, Broggers, or Hucksters, or other persons aforesaid, but that they may lawfully and openly buy any such goods, wares, marchandises, or other things aforesaid, at any Out-rope within the said Citie and liberties thereof.</p>
+            <p>And that this Act shall not extend to any Marchant vsing the trade of marchandise, nor to any bro<g ref="char:EOLhyphen"/>ker betweene Marchant and Marchant, except in such case where any such Marchant or Broker shall deale as a retailing Broker or Huckster in buying or taking to pawne Apparrell, houshold stuffe, bed<g ref="char:EOLhyphen"/>ding, bookes, ends and remnants of Silkes, Veluets, or of Linnen or Woollen Cloth, or such like to sell againe, inhabiting within the said Citie or the Liberties of the same, nor shall extend to anie person or persons that shall lend monie for ten pounds in the hundred for one whole year, or for a grea<g ref="char:EOLhyphen"/>ter or lesser summe, or for a longer or shorter time after the same rate, for or vpon any Plate, Iewels, goods, wares, marchandises, apparrell, housholdstuffe, bookes, bedding, and such like Wares and Commodities, other then to the said Broker, Brogger, or Huckster, or such persons which shal deale in buying or taking to pawne of apparrel, Houshold stuffe, bedding, bookes ends of silks, or veluets, or of Linnen or Woollen Cloth, or such like Wares or Commodities to sell againe, any thing in this Acte to the contrary notwithstanding. Prouided also, and it is heereby further enacted, granted, and agreed by the authority aforesaid, That none of the said Brokers, shall alter, breake or deface, giue, sell, or do away, any Plate, Iewells, goods, Wares, marchandises, apparell, houshold stuffe, bookes, bedding, or such like Commodities so by him bought or taken to pawne as aforesaide, other then to the same person or persons that pawned or sold the same, till he haue kept such Plate &amp; Iewels in his hands by the space of eight and twenty dayes: and such other goods, wares, marchandises, ap<g ref="char:EOLhyphen"/>parrell, houshold stuffe, books, bedding, or such like cōmodities in his hands, by the space of ten dayes at the least, after such buying or taking to pawne, to the intent, that if the same happen to bee stolne or ill come by, the Owner thereof may in that time come and haue a view of the same, vpon paine to forfeit for euery default heerein, the summe of fiue pounds.</p>
+            <closer>God saue the King</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London Printed by William Iaggard, Printer to the Honourable Citie of London. 1622.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
